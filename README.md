@@ -1,3 +1,5 @@
+[![DEPLOY ON OpenShift](http://launch-shifter.rhcloud.com/launch/DEPLOY ON.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=php-5.4&cartridges[]=mysql-5.5&initial_git_url=https://github.com/anoochit/wordpress-example&name=WordPress)
+
 # WordPress on OpenShift #
 
 WordPress is an open source, semantic, blogging and content management 
